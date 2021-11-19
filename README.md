@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Mayuresh
+#### I am Python developer
+![I am Python developer](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=870&q=80)
 
-<!--
-**mayuresh-byte/mayuresh-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mayuresh from India, and I'm a Full stack Python develop. I really enjoy learning languages and frameworks like python and Django.
 
-Here are some ideas to get you started:
+Skills:  HTML / CSS / JS / React JS / Django
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
